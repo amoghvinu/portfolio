@@ -101,7 +101,7 @@ p2{
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  font-size: 3em;
+  font-size: 2em;
   font-weight: 500;
   text-transform: uppercase;
   will-change: transform, opacity, height;
