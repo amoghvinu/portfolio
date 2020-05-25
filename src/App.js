@@ -12,6 +12,7 @@ import Contact from './component/Contact';
 
 
 
+
 function App() {
   return (
     <div className="App">
@@ -20,8 +21,8 @@ function App() {
     <switch>
     <Route path="/About" component={About} />
     <Route path="/Project" component={Project} />
-    <Route  exact path="/" component={Home} />
     <Route path="/Contact" component={Contact}/>
+    <Route  exact path="/" component={Home} />
     </switch>
     
     </div>

@@ -5,7 +5,7 @@ import './Demo.css';
 class Navbar extends Component {
     render() {
         return (
-            <div>
+            <div style={{width:'100%'}}>
                 <nav class="navbar" >
                     
                 <ul class="nav">

@@ -11,7 +11,7 @@ class About extends Component {
     render() {
         return (
             <div style={{backgroundImage: `url(${background})`,
-            height: '100vh', backgroundSize: 'cover',backgroundPosition:'right'}}>
+            height: '100vh', backgroundSize: 'cover',}}>
                <div>
             <Grid container  >
                 <Grid item xs={12} lg={12} style={{display:"flex",justifyContent:"center"}}>
