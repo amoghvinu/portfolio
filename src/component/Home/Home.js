@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
-import background from '../component/Fade-In-Background.svg';
+import background from '../../component/Fade-In-Background.svg';
 import {useSpring,animated} from 'react-spring';
-import './Demo.css';
-import IntroAnim from './trans/IntroAnim';
+import '../Demo.css';
+import IntroAnim from './IntroAnim';
 import {Grid} from '@material-ui/core';
 import Button from '@material-ui/core/Button';
-import ButtonComponent from './trans/ButtonComponent';
+import ButtonComponent from './ButtonComponent';
 
   
 

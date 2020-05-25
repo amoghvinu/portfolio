@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import Anim1 from './trans/Anim1';
-import background from '../component/log.svg';
-import './Demo.css';
+import Anim1 from './Anim1';
+import background from '../../component/log.svg';
+import '../Demo.css';
 import {Grid} from '@material-ui/core';
- import Card from './trans/Card';
+ import Card from './Card';
 
 
 
